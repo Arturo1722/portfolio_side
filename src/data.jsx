@@ -60,26 +60,26 @@ export const links = [
 export const personalInfo = [
   {
     id: 1,
-    title: 'First Name : ',
-    description: 'Steve',
+    title: 'Nombre: ',
+    description: 'Arturo',
   },
 
   {
     id: 2,
-    title: 'Last Name : ',
-    description: 'Milner',
+    title: 'Apellidos : ',
+    description: 'Monroy',
   },
 
   {
     id: 3,
-    title: 'Age : ',
-    description: '27 Years',
+    title: 'Edad : ',
+    description: '24 Años',
   },
 
   {
     id: 4,
-    title: 'Nationality : ',
-    description: 'Tunisian',
+    title: 'Nacionalidad : ',
+    description: 'Mexicana',
   },
 
   {
@@ -90,32 +90,20 @@ export const personalInfo = [
 
   {
     id: 6,
-    title: 'Address : ',
-    description: 'Tunis',
+    title: 'Teléfono : ',
+    description: '5510162127',
   },
 
   {
     id: 7,
-    title: 'Phone : ',
-    description: '+21621184010',
+    title: 'Email : ',
+    description: 'arturomonroy1720@gmail.com',
   },
 
   {
     id: 8,
-    title: 'Email : ',
-    description: 'you@mail.com',
-  },
-
-  {
-    id: 9,
-    title: 'Skype : ',
-    description: 'steve.milner',
-  },
-
-  {
-    id: 10,
-    title: 'Langages : ',
-    description: 'French, English',
+    title: 'Idiomas : ',
+    description: 'Inglés',
   },
 ];
 
